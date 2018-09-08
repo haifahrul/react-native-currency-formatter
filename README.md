@@ -11,6 +11,10 @@
  
 
 # HOW TO USE
+
+#### Installation
+`npm i react-native-currency-formatter-master`
+
 #### Configuration
 > Config the currency
 ```
