@@ -28,7 +28,7 @@ const CurrencyFormatter = (value) => {
   var result;
 
   if (value === 0 || value === null || value === undefined || value === '0' || typeof value === string) {
-    return position(currencyCode, `${value}`);
+    return position(currencyPosition, 0);
   }
   
   currencyCheck = currencyCode.replace(/\s/g, '').toLowerCase();
