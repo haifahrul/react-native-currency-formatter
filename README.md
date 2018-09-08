@@ -13,7 +13,7 @@
 # HOW TO USE
 
 #### Installation
-`npm i react-native-currency-formatter-master`
+`npm i react-native-currency-formatter`
 
 #### Configuration
 > Config the currency
