@@ -1,0 +1,29 @@
+{
+  "name": "react-native-currency-formatter",
+  "version": "1.0.0",
+  "description": "Currency Formatter Rupiah Indonesia and US Dollar",
+  "main": "CurrencyFormatter.js",
+  "dependencies": {
+    "react-native-currency-formatter": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haifahrul/react-native-currency-formatter.git"
+  },
+  "keywords": [
+    "react",
+    "react-js",
+    "react-native",
+    "javascript"
+  ],
+  "author": "haifahrul@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haifahrul/react-native-currency-formatter/issues"
+  },
+  "homepage": "https://github.com/haifahrul/react-native-currency-formatter#readme"
+}
