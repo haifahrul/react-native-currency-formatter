@@ -1,6 +1,6 @@
 {
   "name": "react-native-currency-formatter",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Currency Formatter Rupiah Indonesia and US Dollar",
   "main": "CurrencyFormatter.js",
   "dependencies": {
